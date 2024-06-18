@@ -62,7 +62,7 @@ function head () {
                     </div>
                 </nav>
                     <!-- sign in -->
-                    <div class=" md:bg-transparent w-full md:w-auto hidden md:block *:w-28 flex gap-1 py-1.5 justify-center items-center text-[15px] font-[500] tracking-wide *:md:py-1.5 *:py-1 *:rounded-2xl *:duration-300">
+                    <div class=" md:bg-transparent w-full md:w-auto bg-gray-600 md:block *:w-28 flex gap-1 py-1.5 justify-center items-center text-[15px] font-[500] tracking-wide *:md:py-1.5 *:py-1 *:rounded-2xl *:duration-300 *:border *:border-gray-400">
                         <button onclick="url()" class="bg-[#364D6A] hover:bg-blue-600">Đăng Ký</button>
                         <button onclick="url()" class="bg-[#7E9467] hover:bg-green-600">Đặng Nhập</button>
                     </div>
